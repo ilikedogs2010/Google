@@ -1,1 +1,1 @@
-(google)[google.com/?safe=active&ssui=on]
+<a href="google.com">link</a>
