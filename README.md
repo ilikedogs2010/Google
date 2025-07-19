@@ -1,1 +1,1 @@
-(google)[google.com]
+(google)[google.com/?safe=active&ssui=on]
